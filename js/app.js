@@ -70,7 +70,7 @@ function createCard(data) {
           </div>
           <h3>${product.title}</h3>
           <p>${product.price} ₽</p>
-          <button data-id="${product.id}" class="card__btn">Ko'proq ma'lumotlar</button>
+          <button data-id="${product.id}" class="card__btn">See more details</button>
         </div>
       </div>
     `;
